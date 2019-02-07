@@ -21,7 +21,7 @@ You need to read [Legal Notices](Legal%20Notices.md) first.
 * [Dutch](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/nl.csv)
 * [Italiano](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/it.csv)
 * [Français](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/fr.csv)
-* [El español](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/es.csv)
+* [Español](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/es.csv)
 * [Ελληνική γλώσσα](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/el.csv)
 * [Deutsch](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/de.csv)
 * [Dansk](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/da.csv)
